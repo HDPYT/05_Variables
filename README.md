@@ -1,5 +1,4 @@
 # 05_Variables
-<a href='https://bit.ly/3sj6Apf'> Video Link </a> <br>
 Rules of a variable:
 -------------------------
 <pre>
